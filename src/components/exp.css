@@ -1,0 +1,28 @@
+.container{
+    width: 1200px;
+    height: 500px;
+    margin: 70px auto;
+    display: flex;
+    box-shadow: 0px 0px 10px gray;
+    
+}
+.container .left{
+     width: 30%;
+     height: 500px;
+     background-color: black;
+    
+     display: flex;
+     flex-direction: column;
+     align-items: center;
+     justify-content: space-evenly;
+     font-size: 20px;
+}
+.container .left a{
+    text-decoration: none;
+    color: white;
+}
+.container .right{
+    width: 70%;
+    height: 500px;
+   
+}

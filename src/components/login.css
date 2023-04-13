@@ -1,0 +1,28 @@
+.logmain{
+    box-shadow: 0px 0px 10px black;
+    border: 1px solid black;
+    width: 700px;
+    margin: 100px auto;
+    height: 380px;
+    
+}
+.logmain h3{
+    text-align: center;
+    margin-top: 50px;
+   
+}
+.logmain input {
+    margin-left: 200px;
+}
+.logmain button{
+    margin-left: 300px;
+    border-radius: 5px ;
+    background-color: black;
+    color:white;
+    border: none;
+
+}
+.logmain button:hover{
+    background-color: grey;
+    cursor: pointer;
+}
